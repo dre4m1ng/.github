@@ -30,7 +30,7 @@
 
 <div align="center">
    
-   | | OpenSource Quality Labs | 감성독서 | MyStock |
+   | | OpenSource Quality Labs | MyStock | 감성독서 |
    | :---: | :---: | :---: | :---: | 
    | 구성원 | 이홍주<br>이정훈<br>***양재하*** | 김민규<br>***한상진***<br>정희진 | 한찬혁<br>방시온<br>이성준<br>***임승준***<br>양태경<br>이희상 |
    
