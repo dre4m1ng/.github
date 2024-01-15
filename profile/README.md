@@ -32,6 +32,6 @@
    
    | | OpenSource Quality Labs | MyStock | 감성독서 |
    | :---: | :---: | :---: | :---: | 
-   | 구성원 | 이홍주<br>이정훈<br>***양재하*** | 김민규<br>***한상진***<br>정희진 | 한찬혁<br>방시온<br>이성준<br>***임승준***<br>양태경<br>이희상 |
+   | 구성원 | [이홍주](https://github.com/y1hongju)<br>이정훈<br>[***양재하***](https://github.com/zyaparrot) | 김민규<br>***한상진***<br>정희진 | [한찬혁](https://github.com/Hyuk623)<br>방시온<br>[이성준](https://github.com/YIsungjoon)<br>[***임승준***](https://github.com/tmdwns92)<br>[양태경](https://github.com/poporago)<br>[이희상](https://github.com/jasonheesanglee) |
    
 </div>
