@@ -61,5 +61,5 @@
 <br>
 <br>
 <div align="right">
-   <sub>README edited by JasonHeesangLee</sub>
+   <sub>README designed by JasonHeesangLee</sub>
 </div>
