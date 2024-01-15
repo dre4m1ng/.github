@@ -42,7 +42,7 @@
    | 사진 | [임승준](https://github.com/tmdwns92) | AI 부트캠프 이어드림 - 3기를 수료하였으며 ... |
    | 사진 | 방시온 | AI 부트캠프 이어드림 - 3기를 수료하였으며 ... |
    | 사진 | [이성준](https://github.com/YIsungjoon) | AI 부트캠프 이어드림 - 3기를 수료하였으며 ... |
-   | 사진 | [양태경](https://github.com/poporago) | AI 부트캠프 이어드림스쿨 - 3기를 수료하였으며 ... |
+   | <img src="https://avatars.githubusercontent.com/u/131949171?s=400&u=e7b03d5e3a2ab7abf6820f7b098eb656d24bc8b1&v=4" width="50" height="50" align="middle"> | [양태경](https://github.com/poporago) | - 이어드림스쿨 3기 수료생 <br>-DataMining / XAI / ComputerVision |
    | <img width=50 height=50 src="https://github.com/dre4m1ng/.github/assets/123557477/0c2f6196-10a1-47d9-85f5-081229d3a561"> | [이희상](https://github.com/jasonheesanglee) | - 이어드림스쿨 3기 수료생<br>- Kaggle Competition Expert / Notebooks Master<br>- Package Developer |
 
 </div>
