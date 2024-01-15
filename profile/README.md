@@ -29,6 +29,7 @@
 ## 구성원 소개
 
 <div align="center">
+   
    |  |  | |
    | :---: | :---: | :---: |
    | 사진 | [한찬혁](https://github.com/Hyuk623) | dreAmIng 아이디어의 발원지<br>AI 부트캠프 이어드림 - 3기를 수료하였으며 ... |
@@ -43,6 +44,7 @@
    | 사진 | [이성준](https://github.com/YIsungjoon) | AI 부트캠프 이어드림 - 3기를 수료하였으며 ... |
    | 사진 | [양태경](https://github.com/poporago) | AI 부트캠프 이어드림 - 3기를 수료하였으며 ... |
    | 사진 | [이희상](https://github.com/jasonheesanglee) | AI 부트캠프 이어드림 - 3기를 수료하였으며 ... |
+
 </div>
 
 --------------------------
@@ -58,4 +60,6 @@
 <br>
 <br>
 <br>
-<sub>edited by JasonHeesangLee</sub>
+<div align="right">
+   <sub>README edited by JasonHeesangLee</sub>
+</div>
