@@ -36,7 +36,7 @@
    | 사진 | 정희진 | AI 부트캠프 이어드림 - 3기를 수료하였으며 ... |
    | 사진 | 한상진 | AI 부트캠프 이어드림 - 3기를 수료하였으며 ... |
    | 사진 | 김민규 | AI 부트캠프 이어드림 - 3기를 수료하였으며 ... |
-   | <img src="https://avatars.githubusercontent.com/u/102594161?v=4" width="50" heitgh="50"> | [이홍주](https://github.com/y1hongju) | - 이어드림스쿨 2기 수료생 <br> - 이어드림스쿨 3기 교육 운영/관리 매니저 |
+   | <img src="https://avatars.githubusercontent.com/u/102594161?v=4" width="50" heitgh="50" align="middle"> | [이홍주](https://github.com/y1hongju) | - 이어드림스쿨 2기 수료생 <br> - 이어드림스쿨 3기 교육 운영/관리 매니저 |
    | 사진 | [양재하](https://github.com/zyaparrot) | AI 부트캠프 이어드림 - 3기를 수료하였으며 ... |
    | 사진 | 이정훈 | AI 부트캠프 이어드림 - 3기를 수료하였으며 ... |
    | 사진 | [임승준](https://github.com/tmdwns92) | AI 부트캠프 이어드림 - 3기를 수료하였으며 ... |
