@@ -32,18 +32,18 @@
    
    |  |  | |
    | :---: | :---: | :--- |
-   | <img width="50" height="50" scr="https://github.com/dre4m1ng/.github/blob/main/profile/data/boss_img.png"> | [한찬혁](https://github.com/Hyuk623) | - 이어드림스쿨 3기 수료생<br>- dreAmIng 아이디어의 발원지<br>- 예비창업자 <br>- NLP Project 경험 보유 |
+   | <img width="50" height="50" scr="https://github.com/dre4m1ng/.github/blob/main/profile/data/boss_img.jpg"> | [한찬혁](https://github.com/Hyuk623) | - 이어드림스쿨 3기 수료생<br>- dreAmIng 아이디어의 발원지<br>- 예비창업자 <br>- NLP Project 경험 보유 |
    | 사진 | 정희진 | AI 부트캠프 이어드림 - 3기를 수료하였으며 ... |
    | 사진 | 한상진 | AI 부트캠프 이어드림 - 3기를 수료하였으며 ... |
    | 사진 | 김민규 | AI 부트캠프 이어드림 - 3기를 수료하였으며 ... |
-   | <img src="https://avatars.githubusercontent.com/u/102594161?v=4" width="50" height="50" align="middle"> | [이홍주](https://github.com/y1hongju) | - 이어드림스쿨 2기 수료생 <br> - 이어드림스쿨 3기 교육 운영/관리 매니저 |
-   | <img src="https://avatars.githubusercontent.com/u/86221033?v=4" height="50" > | [양재하](https://github.com/zyaparrot) | - 이어드림스쿨 3기 5관왕<br>- Open-Source Data Engineer |
+   | <img src="https://github.com/dre4m1ng/.github/blob/main/profile/data/hongju.jpeg" width="50" height="50" align="middle"> | [이홍주](https://github.com/y1hongju) | - 이어드림스쿨 2기 수료생 <br> - 이어드림스쿨 3기 교육 운영/관리 매니저 |
+   | <img src="https://github.com/dre4m1ng/.github/blob/main/profile/data/parrot.jpeg" height="50" > | [양재하](https://github.com/zyaparrot) | - 이어드림스쿨 3기 5관왕<br>- Open-Source Data Engineer |
    | 사진 | 이정훈 | AI 부트캠프 이어드림 - 3기를 수료하였으며 ... |
-   | <img src="https://avatars.githubusercontent.com/u/131952715?v=4" width="50" height="50" align="middle"> | [임승준](https://github.com/tmdwns92) | - 이어드림스쿨 3기 수료생 <br> - Computer Vision Project 경험 보유 |
+   | <img src="https://github.com/dre4m1ng/.github/blob/main/profile/data/seungjun.jpeg" width="50" height="50" align="middle"> | [임승준](https://github.com/tmdwns92) | - 이어드림스쿨 3기 수료생 <br> - Computer Vision Project 경험 보유 |
    | 사진 | 방시온 | AI 부트캠프 이어드림 - 3기를 수료하였으며 ... |
    | 사진 | [이성준](https://github.com/YIsungjoon) | AI 부트캠프 이어드림 - 3기를 수료하였으며 ... |
-   | <img src="https://avatars.githubusercontent.com/u/131949171?s=400&u=e7b03d5e3a2ab7abf6820f7b098eb656d24bc8b1&v=4" width="50" height="50" align="middle"> | [양태경](https://github.com/poporago) | - 이어드림스쿨 3기 수료생 <br>-DataMining / XAI / ComputerVision |
-   | <img width=50 height=50 src="https://github.com/dre4m1ng/.github/assets/123557477/0c2f6196-10a1-47d9-85f5-081229d3a561"> | [이희상](https://github.com/jasonheesanglee) | - 이어드림스쿨 3기 수료생<br>- Kaggle Competition Expert & Notebooks Master<br>- NLP Engineer & Package Developer |
+   | <img src="https://github.com/dre4m1ng/.github/blob/main/profile/data/neogul.png" width="50" height="50" align="middle"> | [양태경](https://github.com/poporago) | - 이어드림스쿨 3기 수료생 <br>-DataMining / XAI / ComputerVision |
+   | <img width=50 height=50 src="https://github.com/dre4m1ng/.github/blob/main/profile/data/jason.png"> | [이희상](https://github.com/jasonheesanglee) | - 이어드림스쿨 3기 수료생<br>- Kaggle Competition Expert & Notebooks Master<br>- NLP Engineer & Package Developer |
 
 </div>
 
