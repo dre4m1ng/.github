@@ -32,12 +32,12 @@
    
    |  |  | |
    | :---: | :---: | :--- |
-   | <img width="50" height="50" scr="https://github.com/dre4m1ng/.github/assets/123557477/77cbb18c-fbab-4021-915e-fa732b61b752"> | [한찬혁](https://github.com/Hyuk623) | - 이어드림스쿨 3기 수료생 <br> - dreAmIng 아이디어의 발원지 <br> - 예비창업자 <br> - NLP Project 경험 보유 |
+   | <img width="50" height="50" src="https://github.com/dre4m1ng/.github/assets/123557477/77cbb18c-fbab-4021-915e-fa732b61b752"> | [한찬혁](https://github.com/Hyuk623) | - 이어드림스쿨 3기 수료생 <br> - dreAmIng 아이디어의 발원지 <br> - 예비창업자 <br> - NLP Project 경험 보유 |
    | 사진 | 정희진 | AI 부트캠프 이어드림 - 3기를 수료하였으며 ... |
    | 사진 | 한상진 | AI 부트캠프 이어드림 - 3기를 수료하였으며 ... |
    | 사진 | 김민규 | AI 부트캠프 이어드림 - 3기를 수료하였으며 ... |
    | <img src="https://avatars.githubusercontent.com/u/102594161?v=4" width="50" height="50" align="middle"> | [이홍주](https://github.com/y1hongju) | - 이어드림스쿨 2기 수료생 <br> - 이어드림스쿨 3기 교육 운영/관리 매니저 |
-   | <img src="https://avatars.githubusercontent.com/u/86221033?v=4" height="50" > | [양재하](https://github.com/zyaparrot) | - 이어드림스쿨 3기 5관왕<br>- Open-Source Data Engineer |
+   | <img src="https://avatars.githubusercontent.com/u/86221033?v=4" width="50" height="50" align="middle"> | [양재하](https://github.com/zyaparrot) | - 이어드림스쿨 3기 5관왕<br>- Open-Source Data Engineer |
    | 사진 | 이정훈 | AI 부트캠프 이어드림 - 3기를 수료하였으며 ... |
    | <img src="https://avatars.githubusercontent.com/u/131952715?v=4" width="50" height="50" align="middle"> | [임승준](https://github.com/tmdwns92) | - 이어드림스쿨 3기 수료생 <br> - Computer Vision Project 경험 보유 |
    | 사진 | 방시온 | AI 부트캠프 이어드림 - 3기를 수료하였으며 ... |
