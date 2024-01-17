@@ -32,7 +32,7 @@
    
    |  |  | |
    | :---: | :---: | :--- |
-   | <img width="50" height="50" scr="https://github.com/dre4m1ng/.github/assets/123557477/93e7017f-e41e-4967-b658-933529f4a914"> | [한찬혁](https://github.com/Hyuk623) | - 이어드림스쿨 3기 수료생<br>- dreAmIng 아이디어의 발원지<br>- 예비창업자 <br>- NLP Project 경험 보유 |
+   | <img width="50" height="50" scr="https://github.com/dre4m1ng/.github/blob/main/profile/data/boss_img.png"> | [한찬혁](https://github.com/Hyuk623) | - 이어드림스쿨 3기 수료생<br>- dreAmIng 아이디어의 발원지<br>- 예비창업자 <br>- NLP Project 경험 보유 |
    | 사진 | 정희진 | AI 부트캠프 이어드림 - 3기를 수료하였으며 ... |
    | 사진 | 한상진 | AI 부트캠프 이어드림 - 3기를 수료하였으며 ... |
    | 사진 | 김민규 | AI 부트캠프 이어드림 - 3기를 수료하였으며 ... |
