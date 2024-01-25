@@ -1,5 +1,6 @@
 <div align="center">
    <img width= 450 alt="dreAmIng Logo" src="https://github.com/dre4m1ng/.github/assets/123557477/ff41b254-9a45-401c-9df2-4174a018a893"><br>
+   
    <h1>Welcome to dreAmIng</h1>
    
    dreAmIng(드리밍) 팀은 다양한 분야의 도메인 지식과 경험을 가지고 있는 개개인이 만나 팀을 이루었습니다.<br>
@@ -21,18 +22,23 @@
    dreAming<br>
 </div>
 
-<div align="right">
-   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdre4m1ng&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false">
-</div>
-
---------------------------
-## 구성원 소개
+<br>
 
 <div align="center">
+   <h2>Projects</h2>
+   
+   \- <a href="https://github.com/dre4m1ng/emotional_reading">감성독서: 부제</a><br>
+   \- <a href="https://github.com/dre4m1ng/MyStock">MyStock: 부제</a><br>
+</div>
+
+<br>
+
+<div align="center">
+   <h2>Members</h2>
    
    | Photo | Name | Description |
    | :---: | :---: | :--- |
-   | <img width="50" height="50" src="https://github.com/dre4m1ng/.github/blob/main/profile/data/boss_img.jpg" align="middle"> | [한찬혁](https://github.com/Hyuk623) | - 이어드림스쿨 3기 수료생<br> - dreAmIng 프로젝트 제안자 <br> - 예비 창업자 <br> - NLP Project 경험 보유 |
+   | <img width="50" height="50" src="https://github.com/dre4m1ng/.github/blob/main/profile/data/boss_img.png" align="middle"> | [한찬혁](https://github.com/Hyuk623) | - 이어드림스쿨 3기 수료생<br> - dreAmIng 프로젝트 제안자 <br> - 예비 창업자 <br> - NLP Project 경험 보유 |
    | <img width="50" height="50" src="https://github.com/dre4m1ng/.github/blob/main/profile/data/dummy.jpg" align="middle"> | [정희진](https://github.com/HJ1189) | - 이어드림스쿨 3기 수료생 |
    | <img width="50" height="50" src="https://github.com/dre4m1ng/.github/blob/main/profile/data/dummy.jpg" align="middle"> | [한상진](https://github.com/jinyrdream) | - 이어드림스쿨 3기 수료생 |
    | <img width="50" height="50" src="https://github.com/dre4m1ng/.github/blob/main/profile/data/dummy.jpg" align="middle"> | [김민규](https://github.com/zmfkzj) | - 이어드림스쿨 3기 수료생 |
@@ -47,19 +53,26 @@
 
 </div>
 
---------------------------
-## 팀 구성
-
 <div align="center">
+   <h2>팀 구성</h2>
    
    | | OpenSource Quality Labs | MyStock | 감성독서 |
    | :---: | :---: | :---: | :---: | 
    | 구성원 | 양재하<br>이홍주<br>이정훈<br> | 한상진<br>김민규<br>정희진 | 임승준<br>한찬혁<br>방시온<br>이성준<br>양태경<br>이희상 |
    
 </div>
+
 <br>
-<br>
-<br>
-<div align="right">
-   <sub>README designed by JasonHeesangLee</sub>
+
+---
+<div>
+   <strong>Tema dreAmIng</strong>
+   
+   <a href="https://github.com/dre4m1ng>">GitHub</a>
+   | <a href="https://youtube.com/@dreamingIT2024">YouTube</a>
+   | <a href="https://www.linkedin.com/in/hyuk623/">LinkedIn</a>
+
+   <div align="right">
+      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdre4m1ng&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false">
+   </div>
 </div>
