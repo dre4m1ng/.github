@@ -71,7 +71,7 @@
    <strong>TEAM dreAmIng</strong>
    
    <a href="https://youtube.com/@dreamingIT2024">YouTube</a>
-   | <a href="https://www.linkedin.com/in/hyuk623/">LinkedIn</a>
+   | <a href="https://www.linkedin.com/company/dre4m1ng">LinkedIn</a>
    | <a href="https://github.com/dre4m1ng">GitHub</a>
 
    <div align="right">
