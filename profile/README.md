@@ -60,6 +60,6 @@
 <br>
 <br>
 <br>
-<div align="right">
+<!-- <div align="right">
    <sub>README designed by JasonHeesangLee</sub>
-</div>
+</div> -->
