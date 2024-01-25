@@ -68,7 +68,7 @@
 
 ---
 <div>
-   <strong>Tema dreAmIng</strong>
+   <strong>TEAM dreAmIng</strong>
    
    <a href="https://youtube.com/@dreamingIT2024">YouTube</a>
    | <a href="https://www.linkedin.com/in/hyuk623/">LinkedIn</a>
