@@ -39,15 +39,15 @@
    | Photo | Name | Description |
    | :---: | :---: | :--- |
    | <img width="50" height="50" src="https://github.com/dre4m1ng/.github/blob/main/profile/data/boss_img.png" align="middle"> | [한찬혁](https://github.com/Hyuk623) | - 이어드림스쿨 3기 수료생<br> - dreAmIng 프로젝트 제안자 <br> - 예비 창업자 <br> - NLP Project 경험 보유 |
-   | <img width="50" height="50" src="https://github.com/dre4m1ng/.github/blob/main/profile/data/dummy.jpg" align="middle"> | [정희진](https://github.com/HJ1189) | - 이어드림스쿨 3기 수료생 |
-   | <img width="50" height="50" src="https://github.com/dre4m1ng/.github/blob/main/profile/data/dummy.jpg" align="middle"> | [한상진](https://github.com/jinyrdream) | - 이어드림스쿨 3기 수료생 |
-   | <img width="50" height="50" src="https://github.com/dre4m1ng/.github/blob/main/profile/data/dummy.jpg" align="middle"> | [김민규](https://github.com/zmfkzj) | - 이어드림스쿨 3기 수료생 |
+   | - | [정희진](https://github.com/HJ1189) | - 이어드림스쿨 3기 수료생 |
+   | - | [한상진](https://github.com/jinyrdream) | - 이어드림스쿨 3기 수료생 |
+   | - | [김민규](https://github.com/zmfkzj) | - 이어드림스쿨 3기 수료생 |
    | <img width="50" height="50" src="https://github.com/dre4m1ng/.github/blob/main/profile/data/hongju.jpeg" align="middle"> | [이홍주](https://github.com/y1hongju) | - 이어드림스쿨 2기 수료생 <br> - 이어드림스쿨 3기 교육 운영/관리 매니저 |
    | <img width="50" height="50" src="https://github.com/dre4m1ng/.github/blob/main/profile/data/parrot.jpeg" align="middle"> | [양재하](https://github.com/zyaparrot) | - 이어드림스쿨 3기 5관왕 <br> - Open-Source Data Engineer |
-   | <img width="50" height="50" src="https://github.com/dre4m1ng/.github/blob/main/profile/data/dummy.jpg" align="middle"> | [이정훈](https://github.com/je0nh) | - 이어드림스쿨 3기 수료생 |
+   | - | [이정훈](https://github.com/je0nh) | - 이어드림스쿨 3기 수료생 |
    | <img width="50" height="50" src="https://github.com/dre4m1ng/.github/blob/main/profile/data/seungjun.jpeg" align="middle"> | [임승준](https://github.com/tmdwns92) | - 이어드림스쿨 3기 수료생 <br> - Computer Vision Project 경험 보유 |
-   | <img width="50" height="50" src="https://github.com/dre4m1ng/.github/blob/main/profile/data/dummy.jpg" align="middle"> | [방시온](https://github.com/rep87) | - 이어드림스쿨 3기 수료생 |
-   | <img width="50" height="50" src="https://github.com/dre4m1ng/.github/blob/main/profile/data/dummy.jpg" align="middle"> | [이성준](https://github.com/YIsungjoon) | - 이어드림스쿨 3기 수료생 |
+   | - | [방시온](https://github.com/rep87) | - 이어드림스쿨 3기 수료생 |
+   | - | [이성준](https://github.com/YIsungjoon) | - 이어드림스쿨 3기 수료생 |
    | <img width="50" height="50" src="https://github.com/dre4m1ng/.github/blob/main/profile/data/neogul.png" align="middle"> | [양태경](https://github.com/poporago) | - 이어드림스쿨 3기 수료생 <br>-DataMining / XAI / ComputerVision |
    | <img width="50" height="50" src="https://github.com/dre4m1ng/.github/blob/main/profile/data/jason.png" align="middle"> | [이희상](https://github.com/jasonheesanglee) | - 이어드림스쿨 3기 수료생<br>- Kaggle Competition Expert & Notebooks Master<br>- NLP Engineer & Package Developer |
 
@@ -71,7 +71,7 @@
    <strong>TEAM dreAmIng</strong>
    
    <a href="https://youtube.com/@dreamingIT2024">YouTube</a>
-   | <a href="https://www.linkedin.com/in/hyuk623/">LinkedIn</a>
+   | <a href="https://www.linkedin.com/company/dre4m1ng">LinkedIn</a>
    | <a href="https://github.com/dre4m1ng">GitHub</a>
 
    <div align="right">
