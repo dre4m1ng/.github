@@ -53,6 +53,8 @@
 
 </div>
 
+<br>
+
 <div align="center">
    <h2>팀 구성</h2>
    
